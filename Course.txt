@@ -1,0 +1,16 @@
+CS111 Programming1 4
+CS112 Programming2 4
+CS103 DiscreteStructures 3
+CS211 AlgorithmsAndDataStructures 4
+CE211 DigitalLogicDesign 4
+CS281 IntroductiontoSoftwareEngineering  3
+CE224 ComputerOrganizationAndArchitecture1 4
+CE332 ComputerNetworks 4
+CS284 SoftwareModellingAndAnalysis 4
+CS301 TheoryOfComputation 3
+CS323 OperatingSystems 4
+CS362 IntelligentSystems 3
+CS372 DatabaseSystems 4
+CS451 ComputerGraphics 4
+CS433 ComputerSecurity 4
+CS424 IntroductionToParallelComputing 4

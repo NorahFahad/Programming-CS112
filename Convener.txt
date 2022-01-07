@@ -1,0 +1,5 @@
+014 Najwa Ahmad AssistantProfessor ComputerScience CS111,CS112 001,005 010,011 
+015 Ali Khaled AssistantProfessor ComputerScience CS111,CS112 001,005 010,011 
+016 Sara Ibrahim AssistantProfessor ComputerSecurity CS111,CS112 001,005 010,011    
+017 Layla Mohammad AssociateProfessor IntelligentSystems CS111,CS112 001,005 010,011  
+018 Mohammad Mostafa Professor MachineLearning CS111,CS112 001,005 010,011 

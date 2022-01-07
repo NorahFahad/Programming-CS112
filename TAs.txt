@@ -1,0 +1,7 @@
+007 Abrar Talal TA ComputerSecurity 4 14 CS111,CS103
+008 Rawan Omar TA ComputerScience 4 14 CS111,CS103
+009 Jameelah Adel TA ComputerScience 4 14 CS111,CS103
+010 Huda Abdulmajeed TA SoftwareEngineering 4 14 CS111,CS103
+011 Mohammed Majed TA SoftwareEngineering 4 14 CS111,CS103
+012 Lama Osama TA ComputerScience 4 14 CS11,CS103                     
+013 Noor Ayman TA MachineLearning 4 14 CS111,CS103

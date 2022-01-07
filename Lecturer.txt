@@ -1,0 +1,6 @@
+001 Nora Ahmad Lecturer Algorithms 3 12 CS111,CS103
+002 Nora Abdullah Lecturer NaturalLanguageProcessing 3 12 CS111,CS103
+003 Maryam Mohammad Lecturer ComputerSecurity 3 12 CS111,CS103
+004 Samar Jamal Lecturer SoftwareEngineering 3 12 CS111,CS103
+005 Fatimah Ali Lecturer ComputerScience 3 12 CS111,CS103
+006 Hanan Hassan Lecturer MachineLear‎‎ning 3 12 CS111,CS103
